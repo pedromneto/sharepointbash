@@ -1,0 +1,25 @@
+{
+  "name": "sharepointbash",
+  "version": "1.0.0",
+  "description": "Utilizado para fazer requisições em lote no SharePoint OnLine",
+  "main": "PMN.SharePoint.Bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedromneto/sharepointbash.git"
+  },
+  "keywords": [
+    "SharePoint",
+    "Bash",
+    "REST",
+    "API"
+  ],
+  "author": "Pedro Marques M. Neto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedromneto/sharepointbash/issues"
+  },
+  "homepage": "https://github.com/pedromneto/sharepointbash#readme"
+}

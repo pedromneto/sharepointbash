@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "sourceMap": false,
+        "preserveConstEnums": true,
+        "removeComments": true,
+        "outDir": "dest",
+        "target": "es5"
+    },
+    "include":[
+        "src/*"
+    ]
+}
